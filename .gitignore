@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Secrets and config
+.env
+
+# Contact data — never commit real contact lists
+*.csv
+
+# Test outputs
+Test_Outputs/
+
+# Claude Code internals
+.claude/
+
+# macOS
+.DS_Store

@@ -1,0 +1,50 @@
+company_name: Aqua Harbour Pools & Spas
+company_description: >
+  Aqua Harbour Pools & Spas is a premier pool and spa specialist based in Sydney,
+  Australia. Since 2015, we've been designing, building, and maintaining luxury
+  in-ground pools, spas, and water features for residential and commercial clients
+  across Sydney's Northern Beaches, Eastern Suburbs, and Inner West. We specialise
+  in saltwater systems, energy-efficient designs, and sustainable pool solutions
+  that complement Australia's outdoor lifestyle.
+
+brand_voice: >
+  Professional yet approachable, with a distinctly Australian warmth. We speak like
+  trusted local experts who genuinely care about creating amazing backyard experiences.
+  Keep it conversational but knowledgeable - think "your neighbour who happens to be
+  a pool expert." Avoid pushy sales language and always respect that good pools are
+  a significant investment that deserves careful consideration.
+
+default_from_name: "Max from Aqua Harbour"
+default_from_email: "max@example.com"
+default_reply_to: "max@example.com"
+
+smtp:
+  host: "smtp.gmail.com"
+  port: 587
+  username_env: "GMAIL_USERNAME"  # Environment variable for Gmail address
+  password_env: "GMAIL_APP_PASSWORD"  # Environment variable for Gmail app password
+  use_tls: true
+
+location:
+  city: "Sydney"
+  state: "NSW" 
+  service_areas:
+    - "Northern Beaches"
+    - "Eastern Suburbs"
+    - "Inner West"
+    - "North Shore"
+    - "Hills District"
+
+specialties:
+  - "Custom in-ground pools"
+  - "Luxury spas and hot tubs" 
+  - "Saltwater chlorination systems"
+  - "Pool heating and automation"
+  - "Landscape integration"
+  - "Commercial aquatic facilities"
+
+values:
+  - "Quality Australian craftsmanship"
+  - "Sustainable and energy-efficient solutions"
+  - "Transparent pricing with no hidden costs"
+  - "Long-term relationships with clients"
