@@ -1,11 +1,11 @@
 Your Name
-Aqua Harbour Pools & Spas
-Sydney, NSW
-hello@aquaharbour.com.au (you@example.com)
-www.aquaharbour.com.au
+Your Company
+City, State
+hello@yourcompany.com
+www.yourcompany.com
 
 ---
 
 THIS EMAIL IS PART OF AN INTERNAL TESTING PROJECT AND NOT AN ACTUAL MARKETING EMAIL.
 
-If you received this email and would like to unsubscribe from future communications, please reply with "UNSUBSCRIBE" in the subject line or contact us at hello@aquaharbour.com.au (you@example.com).
+If you received this email and would like to unsubscribe from future communications, please reply with "UNSUBSCRIBE" in the subject line or contact us at hello@yourcompany.com.

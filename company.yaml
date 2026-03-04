@@ -15,8 +15,8 @@ brand_voice: >
   a significant investment that deserves careful consideration.
 
 default_from_name: "Max from Aqua Harbour"
-default_from_email: "max@example.com"
-default_reply_to: "max@example.com"
+default_from_email: "hello@yourcompany.com"
+default_reply_to: "hello@yourcompany.com"
 
 smtp:
   host: "smtp.gmail.com"

@@ -218,7 +218,7 @@ def parse_openrouter_response(content: str) -> Tuple[str, str]:
     body = '\n'.join(body_lines).strip()
     
     if not subject:
-        subject = "Update from YourCompany"
+        subject = "Update from [Company]"
     
     return subject, body
 

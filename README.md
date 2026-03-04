@@ -117,8 +117,8 @@ Use `--yes` or `-y` to skip the confirmation prompt when sending.
 
 ### Mock Email Addresses
 
-All provided contacts use `@example.com` email addresses with a common token `XQF7M` for easy identification:
-- Format: `first.last.XQF7M@example.com`
+All provided sample contacts use a mock email domain with a common token for easy identification:
+- Format: `first.last.TOKEN@example.com`
 - This allows you to search and mass-delete test emails later
 
 ### Gmail SMTP Configuration
@@ -180,7 +180,7 @@ The tool comes configured with a realistic Australian pool company:
 - **Dry-run by default**: Prevents accidental sending
 - **Confirmation prompt**: Real sending mode asks for confirmation (use `--yes` to bypass)
 - **Delay between sends**: 5-second delays prevent mail server issues
-- **Mock domains**: All test data uses @example.com to avoid real addresses
+- **Mock domains**: All test data uses a mock domain to avoid real addresses
 - **Testing disclaimers**: Clear warnings that emails are for testing only
 - **Unsubscribe compliance**: All emails include unsubscribe instructions
 
