@@ -1,6 +1,6 @@
 # EmailBot
 
-A minimal email automation tool that generates personalized emails using AI and sends them via Gmail SMTP.
+A minimal email automation tool that generates personalized emails using AI and sends them via Gmail SMTP. Yes, it's probabilistic mailmerge!
 
 ## What it does
 
